@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-covid-19 data
+Covid-19 data per country
 </h1>
 
 <!-- PROJECT SHIELDS -->
@@ -12,19 +12,18 @@ covid-19 data
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-  <h3 align="center">covid-19 data</h3>
 
   <p align="center">
   Project that lists the countries and the number of registered Corona Virus cases, below examples
   </p>
   
-  <h1 align="center">Web</h1>
+  <h3 align="center">Web</h1>
   <p align="center">
      <a><img src="https://github.com/marcosmarcon/covid19-data/blob/master/record/front.gif"  width="400" height="400" ></a> 
   </p>
   
   
-  <h1 align="center">Mobile</h1>
+  <h3 align="center">Mobile</h1>
   <p align="center">
      <a><img src="https://github.com/marcosmarcon/covid19-data/blob/master/record/mob.gif" width="450" height="400" ></a> 
   </p>
