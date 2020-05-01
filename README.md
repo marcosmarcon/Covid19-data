@@ -25,7 +25,7 @@ Covid-19 data per country
   
   <h3 align="center">Mobile</h1>
   <p align="center">
-     <a><img src="https://github.com/marcosmarcon/covid19-data/blob/master/record/mob.gif" width="450" height="400" ></a> 
+     <a><img src="https://github.com/marcosmarcon/covid19-data/blob/master/record/mob.gif" width="350" height="400" ></a> 
   </p>
 
 
